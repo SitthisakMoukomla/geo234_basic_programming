@@ -49,9 +49,8 @@ Jupyter Notebook สำหรับสอนโครงสร้างการ
 ## 🚀 วิธีใช้งาน
 
 ### ใช้งานผ่าน Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/SitthisakMoukomla/geo234_basic_programming/blob/main/Week_4/Python_Control_Structures_for_Geography.ipynb])
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]  
-https://colab.research.google.com/github/SitthisakMoukomla/geo234_basic_programming/blob/main/Week_4/Python_Control_Structures_for_Geography.ipynb
 
 **ขั้นตอน**
 1. คลิกปุ่ม **Open in Colab** หรือคลิกลิงก์ด้านบน  
